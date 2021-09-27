@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Guia 4</string>
+    <string name="name">Nombre</string>
+    <string name="lastname">Apellido</string>
+    <string name="registryEmployee">Registrar Empleado</string>
+    <string name="addEmployee">Agregar Empleado</string>
+    <string name="listView">Mostrar Lista</string>
+    <string name="MyData">Ver Datos</string>
+
+    <string name="tv_Desarrollado">Desarrollado por</string>
+    <string name="tv_Nombre">Nombre: Juan Carlos Molina Chamel</string>
+    <string name="tv_Codigo">Código: MC17-I04-004</string>
+
+    <string name="Required">Este campo es requerido.</string>
+</resources>
